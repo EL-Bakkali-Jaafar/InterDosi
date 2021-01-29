@@ -1,4 +1,17 @@
  
+<b><h2>InterDosi paper</h2> </b> 
+Jaafar EL Bakkali, Abderrahmin Doudouh, Tarek EL Bardouni, Omar Ait Sahel,
+
+Monte Carlo calculation of photon specific absorbed fractions in digimouse voxelized phantom using InterDosi code,
+
+Radiation Physics and Chemistry, Volume 182, 2021, 109360, ISSN 0969-806X,
+
+https://doi.org/10.1016/j.radphyschem.2021.109360
+
+
+http://www.sciencedirect.com/science/article/pii/S0969806X21000104
+
+
 <b><h2> About InterDosi</h2> </b> 
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/interdosi.jpg)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
  
