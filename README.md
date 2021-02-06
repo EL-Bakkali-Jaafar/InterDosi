@@ -13,7 +13,7 @@ http://www.sciencedirect.com/science/article/pii/S0969806X21000104
 
 
 <b><h2> About InterDosi</h2> </b> 
-![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/interdosi.jpg)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi-LOgo.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
  
 The word InterDosi stands for “Internal Dosimetry”, as its name implies, this code is about of a Geant-based Monte Carlo modeling tool especially oriented for performing internal dosimetry studies on computational human and non-human biota voxel-based phantoms. Here I provide some screenshots:
 
