@@ -1,15 +1,11 @@
  
-<b><h2>InterDosi paper</h2> </b> 
-Jaafar EL Bakkali, Abderrahmin Doudouh, Tarek EL Bardouni, Omar Ait Sahel,
+<b><h2>InterDosi papers</h2> </b> 
+<p>Jaafar EL Bakkali, Abderrahim Doudouh, Tarek EL Bardouni, Omar Ait Sahel. Monte Carlo calculation of photon specific absorbed fractions in digimouse voxelized phantom using InterDosi code.Radiation Physics and Chemistry, Volume 182, 2021, 109360, ISSN 0969-806X. https://doi.org/10.1016/j.radphyschem.2021.109360 (http://www.sciencedirect.com/science/article/pii/S0969806X21000104)
 
-Monte Carlo calculation of photon specific absorbed fractions in digimouse voxelized phantom using InterDosi code,
-
-Radiation Physics and Chemistry, Volume 182, 2021, 109360, ISSN 0969-806X,
-
-https://doi.org/10.1016/j.radphyschem.2021.109360
+Jaafar EL Bakkali, Abderrahim Doudouh, Tarek EL Bardouni. InterDosi simulations of photon and alpha specific absorbed fractions in zubal voxelized phantom. Applied Radiation and Isotopes,2021,109838,ISSN 0969-8043,https://doi.org/10.1016/j.apradiso.2021.109838. (https://www.sciencedirect.com/science/article/pii/S0969804321002402)
+</p>
 
 
-http://www.sciencedirect.com/science/article/pii/S0969806X21000104
 
 
 <b><h2> About InterDosi</h2> </b> 
