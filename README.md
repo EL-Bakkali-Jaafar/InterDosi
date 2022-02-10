@@ -5,7 +5,7 @@
 2. Jaafar EL Bakkali, Abderrahim Doudouh, Tarek EL Bardouni. InterDosi simulations of photon and alpha specific absorbed fractions in zubal voxelized phantom. Applied Radiation and Isotopes,2021,109838,ISSN 0969-8043,https://doi.org/10.1016/j.apradiso.2021.109838. (https://www.sciencedirect.com/science/article/pii/S0969804321002402)
 </p>
 
-3. Jaafar El Bakkali, Emily Caffrey, Abderrahim Doudouh.InterDosi Monte Carlo simulations of photon and electron specific absorbed fractions in a voxel-based crab phantom. Radiat Environ Biophys 2021 Oct 17.
+3. Jaafar El Bakkali, Emily Caffrey, Abderrahim Doudouh.InterDosi Monte Carlo simulations of photon and electron specific absorbed fractions in a voxel-based crab phantom. Radiat Environ Biophys 2021 Oct 17. https://link.springer.com/article/10.1007/s00411-021-00950-6
 
 5. Jaafar EL Bakkali, Khalid Bouyakhlef, Abderrahim Doudouh, Tarek EL Bardouni.
 Estimation of electron-specific absorbed fractions with the InterDosi code using ICRP adult female voxel-based phantom,
