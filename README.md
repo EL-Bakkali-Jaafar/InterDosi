@@ -6,8 +6,16 @@
 </p>
 
 3. Jaafar El Bakkali, Emily Caffrey, Abderrahim Doudouh.InterDosi Monte Carlo simulations of photon and electron specific absorbed fractions in a voxel-based crab phantom. Radiat Environ Biophys 2021 Oct 17.
-https://doi.org/10.1007/s00411-021-00950-6<b><h2> About InterDosi</h2> </b> 
+
+5. Jaafar EL Bakkali, Khalid Bouyakhlef, Abderrahim Doudouh, Tarek EL Bardouni.
+Estimation of electron-specific absorbed fractions with the InterDosi code using ICRP adult female voxel-based phantom,
+Applied Radiation and Isotopes,2022,110145,ISSN 0969-8043, https://doi.org/10.1016/j.apradiso.2022.110145.
+(https://www.sciencedirect.com/science/article/pii/S0969804322000471)
+<b><h2> About InterDosi</h2> </b> 
+
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi-LOgo.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
+
+
  
 The word InterDosi stands for “Internal Dosimetry”, as its name implies, this code is about of a Geant-based Monte Carlo modeling tool especially oriented for performing internal dosimetry studies on computational human and non-human biota voxel-based phantoms. Here I provide some screenshots:
 
