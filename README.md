@@ -80,9 +80,7 @@ Sciences of Tetuan, Morocco and distributed under GPL(General Public License) li
 
 
 
-
-
-The present open-source software has been coded by Jaafar EL Bakkali, Assistant Professor in Nuclear Physics, Rabat-Morocco. Here I provide some screenshots:
+ Here I provide some screenshots:
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi1.20.png)
 
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi-1.2.1.png)
@@ -94,7 +92,7 @@ The present open-source software has been coded by Jaafar EL Bakkali, Assistant 
 
 
 <h2> Required dependencies for InterDosi C++ code</h2>https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/Screenshot1png
-   <p>Geant4 toolkit, version 10.05,10.06 or 10.07  </p>
+   <p>Geant4 toolkit, version 10.07 --> 11  </p>
    <p>gcc >= 5.4.0</p>
    <p>cmake >= 3.13.2</p>
    <p>HDF5 C++ API >= hdf5-1.10.4</p>
