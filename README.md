@@ -21,11 +21,66 @@ Applied Radiation and Isotopes,2022,110145,ISSN 0969-8043, https://doi.org/10.10
 
 
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi-LOgo.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
+The word InterDosi stands for “Internal Dosimetry”, as its name implies, this code is about of a
+Monte Carlo simulation tool especially oriented for performing internal dosimetry studies using
+computational human and non-human biota voxel-based phantoms as well as estimating S-values
+in spherical tumors of variable radii and chemical compositions. The code uses implicitly Geant4
+Monte Carlo toolkit as dose calculation engine known to be the most famous, well-recognized
+tool, powerful and widely used around the world for various applications involving the
+simulation of ionizing radiation transport and its interaction with the matter.
+With knowing that the learning of Geant4 code is not straightforward as the coding with is by
+using C++ programming language and requires huge time to learn a such code, this reflects
+negatively on the exorbitant effort required to build an advanced application based on the Geant4
+C++ toolkit. To deal with this issue, at that point in particular, this open source code has saw the
+light in order to provide to scientific researchers whom have a poor knowledge in Geant4/C++
+programming, a user-friendly platform allowing them to perform internal dosimetric studies
+ using voxelized phantoms as well as using spherical tumor models in an easy manner and in a
+very short time too. The code offers a set of useful graphical tools helping user to quasi-
+automatically perform all steps required for building a complete internal dosimetry study. The
+philosophy of building the InterDosi code was based on the idea of providing an easy-to-use
+Geant4-based code dealing without complication with other geometry files written in various file
+formats, this through its well-developed converters allow user to import a 3D model of any
+existing phantom having a common file format or a well-known structure like as GDML, STL,
+OBJ and MCNP hexahedra lattice, and it converts them to a suitable voxel-based phantom file
+format recognized by the code, this operation is done into few steps, almost automatically. The
+involved dosimetric quantities as Absorbed Fraction (AF) Specific Absorbed Fraction (SAF) can
+be calculated in a voxel-based phantom for a given configuration made up of three parameters,
+namely: source organ, primary particle type and primary particle energy, this through the GUI
+tab “SAFCals”. The code gives to user the opportunity to choice between the most particle types
+emitted by radioactive substances used in nuclear medicine, including electron, positron, gamma,
+alpha, neutron and proton. In addition, the code allows through the GUI tab “SValueCals”, an
+auto calculation of S-values in all organs/regions as results of irradiation of a particular organ by
+a selected radio-isotope. It can also be possible to calculate partial S-Value that account for a
+specific particle or particle group. In order to speed up the simulation and reduce RAM usage,
+parametrized volume approach was used and the G4PhantomParametrisation class was select to
+build a parameterized volume representing the voxelized phantom. Additionally, InterDosi
+provides a GUI tab “TPGSvalueCals”, a module serving to estimate S-value parameter in a
+spherical tumor in which the user is free to set the size and chemical composition. Furthermore,
+user can define an array of tumor configurations, each configuration is defined by three
+parameters: tumor sphere radius, tumor chemical composition and radionuclide name. The code
+allows to user through “VoxGeomVis”` GUI tab the visualization of phantom geometry in two or
+three dimensions by implicitly calling Geant4 visualization system. Visualization of internal dose
+heatmap for a given voxel-based phantom may be possible either in sagittal, coronal or
+transversal view, which give to user a visual idea of how internal absorbed doses are two-
+dimensionally distributed in different phantom organs for a particular slice from the phantom
+whole volume. The code also includes a tool that allows user to plot SAF and S-value data by
+using a data visualization named column chart.
 
- 
-The word InterDosi stands for “Internal Dosimetry”, as its name implies, this code is about of a Geant-based Monte Carlo modeling tool especially oriented for performing internal dosimetry studies on computational human and non-human biota voxel-based phantoms. Here I provide some screenshots:
+Architecturally, InterDosi is a multithreaded tool that supports parallel calculations feature which
+knows to be a good approach to reduce statistical errors associated to scored physics quantities as
+well as reducing whole time spent by a given simulation. InterDosi can be run in sequential
+mode that is means that one CPU is used, or in parallel mode where a multi-core architecture is
+exploited. In order to enhance simulation statistics, a variance reduction technique known as
+particle recycling method is also available in which each primary particle is repeated N times
+determined.
+The present open-source software has been coded by Jaafar EL Bakkali, professor in Nuclear
+Physics and associated member to Radiation and Nuclear System Laboratory, U.A.E, Faculty of
+Sciences of Tetuan, Morocco and distributed under GPL(General Public License) license.
 
-With knowing that the learning of Geant4 code is not straightforward as the coding with is by using C++ programming language and requires huge time to learn a such code, this reflects negatively on the exorbitant effort required to build an advanced application based on Geant4 code. To deal with this issue, at that point in particular, this open source code has saw the light in order to provide to scientific researchers whom have a poor knowledge in Geant4/C++ programming, a user-friendly platform allowing them to perform internal dosimetric studies on voxelized phantoms in an easy manner and in a very short time too. The code offers a set of useful graphical tools helping user to quasi-automatically perform all steps required for building a complete internal dosimetry study. Briefly, this tool allows user to import a 3D model of any existing phantom having a common file format or a well-known structure like as GDML, STL, OBJ and MCNP hexahedra lattice, and it converts them to a suitable voxel-based phantom file format regnonized by the code, this operation is done into few steps, almost automatically. The involved dosimetric quantities as specific absorbed fraction and absorbed fraction can be calculated in a voxel-based phantom for a given configuration made up of three parameters, namely: source organ, primary particle type and primary particle energy. The code gives an opportunity to user to choice between the most particle types emitted by radioactive substances used in nuclear medicine, including  electron, positron, gamma, alpha, neutron and proton. In addition, code allows user to visualize phantom geometry in two or three dimensions by implicitly calling Geant4 visualization system. Visualization of internal dose heatmap for a given voxel-based phantom may be possible either in sagittal, coronal or transversal view, which give to user a visual idea of how internal absorbed doses are two-dimensionally distributed in different phantom organs for a particular slice from phantom whole volume. Architecturally, InterDosi is a multi threaded tool that supports parallel calculations feature which knows to be a good approach to reduce statistical errors associated to scored physics quantities as well as reducing whole time spent by a given simulation. InterDosi can be run in sequential mode that is means that one CPU is used, or in parallel mode where a multi-core architecture is exploited. In order to enhance simulation statistics, a variance reduction technique called PNTU (Particle Number of Times of Use) is also available in which each primary particle is repeated for a given times.
+
+
+
+
 
 The present open-source software has been coded by Jaafar EL Bakkali, Assistant Professor in Nuclear Physics, Rabat-Morocco. Here I provide some screenshots:
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi1.20.png)
