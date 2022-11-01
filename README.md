@@ -11,7 +11,14 @@
 Estimation of electron-specific absorbed fractions with the InterDosi code using ICRP adult female voxel-based phantom,
 Applied Radiation and Isotopes,2022,110145,ISSN 0969-8043, https://doi.org/10.1016/j.apradiso.2022.110145.
 (https://www.sciencedirect.com/science/article/pii/S0969804322000471)
+6. EL Bakkali, J., Doudouh, A., EL Bardouni, T. et al. Intercomparison of S-Factor values calculated in Zubal voxelized phantom for eleven radionuclides commonly used in targeted prostate cancer therapy. Phys Eng Sci Med (2022). https://doi.org/10.1007/s13246-022-01191-7
+
+7. BenDriss, H., Chakir, E., EL Bakkali, J. et al. InterDosi Monte Carlo study of radiation exposure of a reference crab phantom due to radioactive wastewater deposited in marine environment following the Fukushima nuclear accident. Radiat Environ Biophys (2022). https://doi.org/10.1007/s00411-022-00994-2
+
+
+
 <b><h2> About InterDosi</h2> </b> 
+
 
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi-LOgo.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
 
