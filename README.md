@@ -79,7 +79,6 @@ Sciences of Tetuan, Morocco and distributed under GPL(General Public License) li
 
 
 
-
  Here I provide some screenshots:
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi1.20.png)
 
@@ -91,7 +90,7 @@ Sciences of Tetuan, Morocco and distributed under GPL(General Public License) li
 
 
 
-<h2> Required dependencies for InterDosi C++ code</h2>https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/Screenshot1png
+<h2> Required dependencies for InterDosi C++ code</h2>
    <p>Geant4 toolkit, version 10.07 --> 11  </p>
    <p>gcc >= 5.4.0</p>
    <p>cmake >= 3.13.2</p>
