@@ -14,6 +14,8 @@ Applied Radiation and Isotopes,2022,110145,ISSN 0969-8043, https://doi.org/10.10
 6. EL Bakkali, J., Doudouh, A., EL Bardouni, T. et al. Intercomparison of S-Factor values calculated in Zubal voxelized phantom for eleven radionuclides commonly used in targeted prostate cancer therapy. Phys Eng Sci Med (2022). https://doi.org/10.1007/s13246-022-01191-7
 
 7. BenDriss, H., Chakir, E., EL Bakkali, J. et al. InterDosi Monte Carlo study of radiation exposure of a reference crab phantom due to radioactive wastewater deposited in marine environment following the Fukushima nuclear accident. Radiat Environ Biophys (2022). https://doi.org/10.1007/s00411-022-00994-2
+   
+8. EL Bakkali, J., Doudouh, A. Comparison between InterDosi and MCNP in the estimation of photon SAFs on a series of ICRP pediatric voxelized phantoms. Jpn J Radiol (2023). https://doi.org/10.1007/s11604-023-01469-0
 
 
 
