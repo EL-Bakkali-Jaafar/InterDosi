@@ -39,11 +39,49 @@ The present open-source software has been coded by Jaafar EL Bakkali, professor 
  Here I provide some screenshots:
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi1.20.png)
 
-![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi-1.2.1.png)
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image1.png)
 
-![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi-1.2.2.png)
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image2.png)
 
-![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi-1.2.png)
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image3.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image4.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image5.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image6.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image7.jpg)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image8.jpg)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image9.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image10.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image11.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image12.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image13.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image14.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image15.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image16.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image17.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image18.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image19.png)
+
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterDosi_v1.3_image20.png)
+
+
+
+
 
 
 
