@@ -17,6 +17,9 @@ Applied Radiation and Isotopes,2022,110145,ISSN 0969-8043, https://doi.org/10.10
    
 8. EL Bakkali, J., Doudouh, A. Comparison between InterDosi and MCNP in the estimation of photon SAFs on a series of ICRP pediatric voxelized phantoms. Jpn J Radiol (2023). https://doi.org/10.1007/s11604-023-01469-0
 
+9. Jaafar EL Bakkali, Abderrahim Doudouh, Tarek EL Bardouni, Tarik EL Ghalbzouri, Hafssa Bendriss, Soufiyan Yachou,
+Development and validation of a Medaka fish voxel-based model for internal ionizing radiation dosimetry,
+Journal of Environmental Radioactivity, Volume 272,2024,107359,ISSN 0265-931X, https://doi.org/10.1016/j.jenvrad.2023.107359.
 
 
 <b><h2> About InterDosi</h2> </b> 
