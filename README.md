@@ -109,7 +109,7 @@ The present open-source software has been coded by Jaafar EL Bakkali, professor 
 
 <b><h2> For further info</h2> </b> 
 <p>Contact:
-Jaafar EL Bakkali, at  <a href="mailto:bahmedj@gmail.com">bahmedj@gmail.com</a>  </p>
+Jaafar EL Bakkali, at  <a href="mailto:j.elbakkali@uae.ac.ma">j.elbakkali@uae.ac.ma</a>  </p>
 <h2> License</h2> 
 <p>This software is free software; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. For the complete text of the license see the GPL-web page.</p>
 
