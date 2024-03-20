@@ -24,7 +24,7 @@ Journal of Environmental Radioactivity, Volume 272,2024,107359,ISSN 0265-931X, h
 <b><h2> About InterDosi</h2> </b> 
 
 
-![alt text]https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterD-si-3-19-2024.png))is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
+![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterD-si-3-19-2024.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
 
 The word InterDosi stands for Internal Dosimetry, as its name implies, this code is about a Monte Carlo simulation tool especially oriented for performing internal dosimetry studies using computational voxelized or primitive phantoms. The code uses implicitly Geant4 Monte Carlo toolkit as a dose calculation engine known to be the most famous, well-recognized tool, powerful and widely used around the world for various applications involving the simulation of ionizing radiation transport and its interaction with the matter.
 
