@@ -16,7 +16,6 @@ Applied Radiation and Isotopes,2022,110145,ISSN 0969-8043, https://doi.org/10.10
 7. BenDriss, H., Chakir, E., EL Bakkali, J. et al. InterDosi Monte Carlo study of radiation exposure of a reference crab phantom due to radioactive wastewater deposited in marine environment following the Fukushima nuclear accident. Radiat Environ Biophys (2022). https://doi.org/10.1007/s00411-022-00994-2
    
 8. EL Bakkali, J., Doudouh, A. Comparison between InterDosi and MCNP in the estimation of photon SAFs on a series of ICRP pediatric voxelized phantoms. Jpn J Radiol (2023). https://doi.org/10.1007/s11604-023-01469-0
-
 9. Jaafar EL Bakkali, Abderrahim Doudouh, Tarek EL Bardouni, Tarik EL Ghalbzouri, Hafssa Bendriss, Soufiyan Yachou,
 Development and validation of a Medaka fish voxel-based model for internal ionizing radiation dosimetry,
 Journal of Environmental Radioactivity, Volume 272,2024,107359,ISSN 0265-931X, https://doi.org/10.1016/j.jenvrad.2023.107359.
@@ -25,7 +24,7 @@ Journal of Environmental Radioactivity, Volume 272,2024,107359,ISSN 0265-931X, h
 <b><h2> About InterDosi</h2> </b> 
 
 
-![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterD-si-3-19-2024.png))is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
+![alt text]https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterD-si-3-19-2024.png))is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
 
 The word InterDosi stands for Internal Dosimetry, as its name implies, this code is about a Monte Carlo simulation tool especially oriented for performing internal dosimetry studies using computational voxelized or primitive phantoms. The code uses implicitly Geant4 Monte Carlo toolkit as a dose calculation engine known to be the most famous, well-recognized tool, powerful and widely used around the world for various applications involving the simulation of ionizing radiation transport and its interaction with the matter.
 
