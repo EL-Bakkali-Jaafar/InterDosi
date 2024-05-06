@@ -20,8 +20,11 @@ Applied Radiation and Isotopes,2022,110145,ISSN 0969-8043, https://doi.org/10.10
 Development and validation of a Medaka fish voxel-based model for internal ionizing radiation dosimetry,
 Journal of Environmental Radioactivity, Volume 272,2024,107359,ISSN 0265-931X, https://doi.org/10.1016/j.jenvrad.2023.107359.
 
+9. Jaafar EL Bakkali, Abderrahim Doudouh,VoxIsle: A new method in InterDosi code for improving internal dosimetry simulation performances in voxelized phantom,
+Radiation Physics and Chemistry,Volume 222,2024,111826,ISSN 0969-806X,https://doi.org/10.1016/j.radphyschem.2024.111826.(https://www.sciencedirect.com/science/article/pii/S0969806X24003189)
 
-<b><h2> About InterDosi</h2> </b> 
+
+
 
 
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterD-si-3-19-2024.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
