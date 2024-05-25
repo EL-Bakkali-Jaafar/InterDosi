@@ -1,29 +1,26 @@
  
 <b><h2>InterDosi papers</h2> </b> 
-1. <p>Jaafar EL Bakkali, Abderrahim Doudouh, Tarek EL Bardouni, Omar Ait Sahel. Monte Carlo calculation of photon specific absorbed fractions in digimouse voxelized phantom using InterDosi code.Radiation Physics and Chemistry, Volume 182, 2021, 109360, ISSN 0969-806X. https://doi.org/10.1016/j.radphyschem.2021.109360 (http://www.sciencedirect.com/science/article/pii/S0969806X21000104)
+1. J. EL Bakkali, A. Doudouh, T. EL Bardouni, O. Ait Sahel. Monte Carlo calculation of photon specific absorbed fractions in digimouse voxelized phantom using InterDosi code.Radiation Physics and Chemistry, Volume 182, 2021, 109360, ISSN 0969-806X. https://doi.org/10.1016/j.radphyschem.2021.109360 (http://www.sciencedirect.com/science/article/pii/S0969806X21000104)
 
-2. Jaafar EL Bakkali, Abderrahim Doudouh, Tarek EL Bardouni. InterDosi simulations of photon and alpha specific absorbed fractions in zubal voxelized phantom. Applied Radiation and Isotopes,2021,109838,ISSN 0969-8043,https://doi.org/10.1016/j.apradiso.2021.109838. (https://www.sciencedirect.com/science/article/pii/S0969804321002402)
-</p>
+2. J. EL Bakkali, A. Doudouh, T. EL Bardouni. InterDosi simulations of photon and alpha specific absorbed fractions in zubal voxelized phantom. Applied Radiation and Isotopes,2021,109838,ISSN 0969-8043,https://doi.org/10.1016/j.apradiso.2021.109838. (https://www.sciencedirect.com/science/article/pii/S0969804321002402)
 
-3. Jaafar El Bakkali, Emily Caffrey, Abderrahim Doudouh.InterDosi Monte Carlo simulations of photon and electron specific absorbed fractions in a voxel-based crab phantom. Radiat Environ Biophys 2021 Oct 17. https://link.springer.com/article/10.1007/s00411-021-00950-6
+3. J. El Bakkali, E. Caffrey, A. Doudouh. InterDosi Monte Carlo simulations of photon and electron specific absorbed fractions in a voxel-based crab phantom. Radiat Environ Biophys 2021 Oct 17. https://link.springer.com/article/10.1007/s00411-021-00950-6
 
-5. Jaafar EL Bakkali, Khalid Bouyakhlef, Abderrahim Doudouh, Tarek EL Bardouni.
-Estimation of electron-specific absorbed fractions with the InterDosi code using ICRP adult female voxel-based phantom,
+5. J. EL Bakkali, K. Bouyakhlef, A. Doudouh, T. EL Bardouni. Estimation of electron-specific absorbed fractions with the InterDosi code using ICRP adult female voxel-based phantom,
 Applied Radiation and Isotopes,2022,110145,ISSN 0969-8043, https://doi.org/10.1016/j.apradiso.2022.110145.
 (https://www.sciencedirect.com/science/article/pii/S0969804322000471)
 6. EL Bakkali, J., Doudouh, A., EL Bardouni, T. et al. Intercomparison of S-Factor values calculated in Zubal voxelized phantom for eleven radionuclides commonly used in targeted prostate cancer therapy. Phys Eng Sci Med (2022). https://doi.org/10.1007/s13246-022-01191-7
 
-7. BenDriss, H., Chakir, E., EL Bakkali, J. et al. InterDosi Monte Carlo study of radiation exposure of a reference crab phantom due to radioactive wastewater deposited in marine environment following the Fukushima nuclear accident. Radiat Environ Biophys (2022). https://doi.org/10.1007/s00411-022-00994-2
+7. H. BenDriss, E Chakir, J. EL Bakkali et al. InterDosi Monte Carlo study of radiation exposure of a reference crab phantom due to radioactive wastewater deposited in marine environment following the Fukushima nuclear accident. Radiat Environ Biophys (2022). https://doi.org/10.1007/s00411-022-00994-2
    
-8. EL Bakkali, J., Doudouh, A. Comparison between InterDosi and MCNP in the estimation of photon SAFs on a series of ICRP pediatric voxelized phantoms. Jpn J Radiol (2023). https://doi.org/10.1007/s11604-023-01469-0
+8. J.EL Bakkali , A. Doudouh. Comparison between InterDosi and MCNP in the estimation of photon SAFs on a series of ICRP pediatric voxelized phantoms. Jpn J Radiol (2023). https://doi.org/10.1007/s11604-023-01469-0
 9. Jaafar EL Bakkali, Abderrahim Doudouh, Tarek EL Bardouni, Tarik EL Ghalbzouri, Hafssa Bendriss, Soufiyan Yachou,
 Development and validation of a Medaka fish voxel-based model for internal ionizing radiation dosimetry,
 Journal of Environmental Radioactivity, Volume 272,2024,107359,ISSN 0265-931X, https://doi.org/10.1016/j.jenvrad.2023.107359.
 
-9. Jaafar EL Bakkali, Abderrahim Doudouh,VoxIsle: A new method in InterDosi code for improving internal dosimetry simulation performances in voxelized phantom,
-Radiation Physics and Chemistry,Volume 222,2024,111826,ISSN 0969-806X,https://doi.org/10.1016/j.radphyschem.2024.111826.(https://www.sciencedirect.com/science/article/pii/S0969806X24003189)
-
-
+9. J. EL Bakkali, A. Doudouh. VoxIsle: A new method in InterDosi code for improving internal dosimetry simulation performances in voxelized phantom,Radiation Physics and Chemistry,Volume 222,2024,111826,ISSN 0969-806X,https://doi.org/10.1016/j.radphyschem.2024.111826.(https://www.sciencedirect.com/science/article/pii/S0969806X24003189)
+10. R. Yerrou, J. EL Bakkali, T. EL Bardouni, A. Doudouh, O. El Hajjaji, T. El Ghalbzouri, Evaluation of the InterDosi code in estimating S-values with the Digimouse voxelized mouse phantom,
+Radiation Physics and Chemistry,2024,111859,ISSN 0969-806X, https://doi.org/10.1016/j.radphyschem.2024.111859.
 
 
 
