@@ -21,7 +21,9 @@ Journal of Environmental Radioactivity, Volume 272,2024,107359,ISSN 0265-931X, h
 9. J. EL Bakkali, A. Doudouh. VoxIsle: A new method in InterDosi code for improving internal dosimetry simulation performances in voxelized phantom,Radiation Physics and Chemistry,Volume 222,2024,111826,ISSN 0969-806X,https://doi.org/10.1016/j.radphyschem.2024.111826.(https://www.sciencedirect.com/science/article/pii/S0969806X24003189)
 10. R. Yerrou, J. EL Bakkali, T. EL Bardouni, A. Doudouh, O. El Hajjaji, T. El Ghalbzouri, Evaluation of the InterDosi code in estimating S-values with the Digimouse voxelized mouse phantom,
 Radiation Physics and Chemistry,2024,111859,ISSN 0969-806X, https://doi.org/10.1016/j.radphyschem.2024.111859.
-
+11. Hafssa Bendriss, Jaafar EL Bakkali, EL Mahjoub Chakir, Abderrahim Doudouh, Soufiyane Yachou,
+Development and validation of a voxel-based computational phantom of Halobatrachus didactylus (Toadfish) to study radiation protection of the marine environment,Journal of Environmental Radioactivity,Volume 285,
+2025,107657,ISSN 0265-931X,https://doi.org/10.1016/j.jenvrad.2025.107657.
 
 
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterD-si-3-19-2024.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
