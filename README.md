@@ -31,6 +31,9 @@ Development and validation of a voxel-based computational phantom of Halobatrach
 Proposal for an Iodine-131-based technique derived from a Monte Carlo study for inactivating SARS-CoV-2,
 Radiation Physics and Chemistry,2025,112827,ISSN 0969-806X,https://doi.org/10.1016/j.radphyschem.2025.112827.
 (https://www.sciencedirect.com/science/article/pii/S0969806X25003196)
+13. R. Yerrou, J. El Bakkali, T. El Bardouni, B. Ahannout, Y. Ben Lazrak, A. Akka, A. Nouayti, C. Benkabdi,
+Estimation of S-values using the Digimouse phantom for radionuclides commonly under preclinical investigation for treatment of early and terminal stages of hepatocellular cancer,
+Radiation Physics and Chemistry
 
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterD-si-3-19-2024.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
 
