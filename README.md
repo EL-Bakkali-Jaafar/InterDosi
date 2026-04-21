@@ -33,7 +33,8 @@ Radiation Physics and Chemistry,2025,112827,ISSN 0969-806X,https://doi.org/10.10
 (https://www.sciencedirect.com/science/article/pii/S0969806X25003196)
 13. R. Yerrou, J. El Bakkali, T. El Bardouni, B. Ahannout, Y. Ben Lazrak, A. Akka, A. Nouayti, C. Benkabdi,
 Estimation of S-values using the Digimouse phantom for radionuclides commonly under preclinical investigation for treatment of early and terminal stages of hepatocellular cancer,
-Radiation Physics and Chemistry
+Radiation Physics and Chemistry. https://doi.org/10.1016/j.radphyschem.2025.113039
+14. Jaafar EL Bakkali, Tarek EL Bardouni, Tarek EL Ghalbzouri, Randa Yerrou, Yousra BenLazrak, Bakr Ahannout, Abderrahim Doudouh. Effect of the parameters defining the tumor computational phantom on the S-values of therapeutic beta-emitters in internal radiotherapy of hepatocellular carcinoma, Radiation Physics and Chemistry. https://doi.org/10.1016/j.radphyschem.2026.113940
 
 ![alt text](https://github.com/EL-Bakkali-Jaafar/InterDosi/blob/master/InterD-si-3-19-2024.png)is a user-friendly open source code aimed at facilitating the use of Geant4 C++ toolkit for internal dosimetry on voxelized phantoms.
 
